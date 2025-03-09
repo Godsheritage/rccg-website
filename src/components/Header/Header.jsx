@@ -5,8 +5,8 @@ import { FacebookOutlined, InstagramOutlined, YoutubeOutlined } from "@ant-desig
 const Header = () => {
   return (
     <header className="bg-white shadow-md sticky top-0 z-50">
-      <div className="container mx-auto flex flex-row justify-center items-center py-4 px-6">
-        <h1 className="text-2xl font-bold text-gray-900">Union Church</h1>
+      <div className="container mx-auto flex flex-row justify-around items-center py-4 px-6">
+        <h1 className="text-2xl font-bold text-gray-900">Christ Villa</h1>
         <Menu mode="horizontal" className="flex space-x-6 border-none">
           <Menu.Item key="about"><a href="/about">About</a></Menu.Item>
           <Menu.Item key="locations"><a href="/locations">Locations</a></Menu.Item>
@@ -19,7 +19,7 @@ const Header = () => {
           <a href="https://www.facebook.com"><FacebookOutlined /></a>
           <a href="https://www.youtube.com"><YoutubeOutlined /></a>
         </div>
-        <div class="text-blue-500 font-bold">Hello, Windi CSS!</div>
+
       </div>
     </header>
   );
