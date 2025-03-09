@@ -43,13 +43,13 @@ const HeroSection = () => {
           </h1>
           <div className=" max-w-2xl">
             <p className="text-2xl mt-6 leading-relaxed">
-              At Union Church, we’ve created an environment where you can build
+              At Christ Villa, we’ve created an environment where you can build
               meaningful relationships and find fulfillment by growing your
               faith. You’ll connect with people and discover that you are
               welcome no matter your background or story.
             </p>
             <p className="text-2xl mt-4 leading-relaxed">
-              We invite you to experience Union Church for yourself. You’ll hear
+              We invite you to experience Christ Villa for yourself. You’ll hear
               great music and a relevant message that’s enjoyable, engaging, and
               leaves you feeling inspired and empowered – and we guarantee that
               your kids will love it! Come as you are!
