@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="bg-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex flex-row justify-around items-center py-4 px-6">
-        <h1 className="text-2xl font-bold text-gray-900">Christ Villa</h1>
+        <h1 className="text-2xl font-bold text-gray-900">{https://www.christvilla.org/images/logo/ChristVilla-logo-65_Test.png}</h1>
         <Menu mode="horizontal" className="flex space-x-6 border-none">
           <Menu.Item key="about"><a href="/about">About</a></Menu.Item>
           <Menu.Item key="locations"><a href="/locations">Locations</a></Menu.Item>
