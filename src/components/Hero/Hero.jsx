@@ -43,17 +43,9 @@ const HeroSection = () => {
           </h1>
           <div className=" max-w-2xl">
             <p className="text-2xl mt-6 leading-relaxed">
-              At Christ Villa, we’ve created an environment where you can build
-              meaningful relationships and find fulfillment by growing your
-              faith. You’ll connect with people and discover that you are
-              welcome no matter your background or story.
+              I welcome you in the name of the Lord Jesus Christ our Savior and thank you for visiting this website. Christ Villa is a community church located in Parkville, North of Baltimore Maryland, where we believe in the Full Gospel of Jesus Christ, sharing the Word of God with clarity and relevance, a place where fervent and effectual praying is a lifestyle, offering intense praise and extreme worship unto Jehovah the King of Kings.
             </p>
-            <p className="text-2xl mt-4 leading-relaxed">
-              We invite you to experience Christ Villa for yourself. You’ll hear
-              great music and a relevant message that’s enjoyable, engaging, and
-              leaves you feeling inspired and empowered – and we guarantee that
-              your kids will love it! Come as you are!
-            </p>
+          
             <button className="mt-6 bg-white text-black font-bold py-3 px-6 rounded-lg shadow-lg hover:bg-gray-200 transition duration-300">
               PLAN YOUR VISIT
             </button>
