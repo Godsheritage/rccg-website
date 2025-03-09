@@ -25,7 +25,7 @@ const HeroSection = () => {
   return (
     <section
       className="relative h-screen flex items-center bg-cover bg-center"
-      style={{ backgroundImage: "url('src/assets/church1.jpg')" }}
+      style={{ backgroundImage: "url('https://images.pexels.com/photos/2014775/pexels-photo-2014775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')" }}
     >
       {/* Dark Overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-60"></div>

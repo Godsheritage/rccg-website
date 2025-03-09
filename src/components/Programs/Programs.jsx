@@ -5,13 +5,13 @@ const programs = [
     title: "Kids",
     description: "Fun and engaging programs for kids.",
     link: "/kids",
-    image: "src/assets/kids.jpg", // Add your image path here
+    image: "https://images.pexels.com/photos/1148998/pexels-photo-1148998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", // Add your image path here
   },
   {
     title: "Students",
     description: "A great place for young people to grow.",
     link: "/students",
-    image: "src/assets/kids.jpg", // Add your image path here
+    image: "https://images.pexels.com/photos/1148998/pexels-photo-1148998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", // Add your image path here
   },
 ];
 
