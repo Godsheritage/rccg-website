@@ -8,8 +8,8 @@ const Footer = () => {
         <div className="flex flex-col lg:flex-row justify-between items-center text-center lg:text-left">
           {/* Logo */}
           <div>
-            <h2 className="text-4xl font-bold uppercase">Union</h2>
-            <p className="text-sm tracking-widest">CHURCH</p>
+            <h2 className="text-4xl font-bold uppercase">Christ</h2>
+            <p className="text-sm tracking-widest">Villa</p>
           </div>
 
           {/* Social Media Icons */}
@@ -28,10 +28,10 @@ const Footer = () => {
 
         {/* Address Section */}
         <div className="mt-6 text-center lg:text-left">
-          <p className="font-semibold">Union Church Central Offices</p>
-          <p>681 Hollins Ferry Rd, Glen Burnie, MD 21061</p>
-          <p>Email: <a href="mailto:info@theunionchurch.com" className="text-gray-300">info@theunionchurch.com</a></p>
-          <p>Phone: <a href="tel:4106724260" className="text-gray-300">410.672.4260</a></p>
+          <p className="font-semibold">Christ Villa Main Church</p>
+          <p>2301 putty hill avenue, Parkville, MD, 21234</p>
+          <p>Email: <a href="mailto:admin@christvilla.org" className="text-gray-300">admin@christvilla.org</a></p>
+          <p>Phone: <a href="tel:4105531425" className="text-gray-300">410.553.1425</a></p>
         </div>
 
         {/* Navigation Links */}
